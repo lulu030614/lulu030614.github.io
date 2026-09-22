@@ -1,0 +1,19 @@
+/* MindCare design tokens */
+:root {
+  --color-primary:#4A9B8E; --color-primary-light:#6BBDAF; --color-primary-dark:#2D7A6D; --color-primary-faint:#EBF5F3;
+  --color-secondary:#7B7EC8; --color-secondary-light:#A0A3DE; --color-secondary-faint:#F0F0FA;
+  --color-accent:#E8A84C; --color-accent-faint:#FDF5E8;
+  --color-bg:#F7F9F8; --color-surface:#FFFFFF; --color-surface-alt:#F0F4F2; --color-border:#DDE5E2; --color-border-light:#EEF2F0;
+  --color-text-primary:#1A2E2B; --color-text-secondary:#4A6560; --color-text-tertiary:#7A9990; --color-text-inverse:#FFFFFF;
+  --color-success:#3BAA7A; --color-success-faint:#EBF7F2; --color-warning:#E8943A; --color-warning-faint:#FDF4EB; --color-error:#D95C5C; --color-error-faint:#FDEAEA;
+  --color-bubble-user:#4A9B8E; --color-bubble-ai:#FFFFFF; --color-bubble-user-text:#FFFFFF; --color-bubble-ai-text:#1A2E2B;
+  --font-body:'PingFang SC','Noto Sans SC','Microsoft YaHei',-apple-system,BlinkMacSystemFont,sans-serif;
+  --font-mono:'SF Mono','Fira Code',monospace;
+  --text-xs:11px; --text-sm:13px; --text-base:15px; --text-md:17px; --text-lg:20px; --text-xl:24px; --text-2xl:30px;
+  --lh-tight:1.25; --lh-base:1.55; --lh-loose:1.75;
+  --sp-1:4px; --sp-2:8px; --sp-3:12px; --sp-4:16px; --sp-5:20px; --sp-6:24px; --sp-8:32px; --sp-10:40px; --sp-12:48px;
+  --radius-sm:6px; --radius-md:12px; --radius-lg:18px; --radius-xl:24px; --radius-full:9999px;
+  --shadow-sm:0 1px 3px rgba(26,46,43,.07); --shadow-md:0 4px 12px rgba(26,46,43,.09); --shadow-lg:0 8px 28px rgba(26,46,43,.12); --shadow-xl:0 20px 48px rgba(26,46,43,.15);
+  --transition-fast:150ms ease; --transition-base:250ms ease; --transition-slow:400ms ease;
+  --nav-height:56px; --header-height:56px; --content-max:480px; --sidebar-width:280px;
+}
